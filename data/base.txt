@@ -1,0 +1,115 @@
+
+
+### **Core Values and Beliefs**  
+**Question:** What are your core values and beliefs? How do they affect your daily life?  
+**Your Answer:**  
+My core values and beliefs are centered around hard work and consistency. I firmly believe that being consistent in daily efforts leads to growth and success. I am very frequent with daily learning and always try to learn new things, which helps me stay updated and confident in my abilities. I enjoy getting involved in various activities, like anchoring, which not only enhance my skills but also give me exposure to new experiences. Although I multitask at times, I prefer to focus on one task at a time because it allows me to give my best and learn efficiently without distractions.
+
+---
+
+### **Interests and Hobbies**  
+**Question:** What are your main interests and hobbies? What kind of content do you like?  
+**Your Answer:**  
+I find great interest in sports, particularly football and cricket. I enjoy playing these sports not for professional reasons but to maintain my fitness and stay active. They are a great way for me to unwind and recharge. Besides sports, I love watching movies during my free time. Movies allow me to relax and explore different perspectives and stories. Additionally, I have a strong passion for learning new technical skills. These skills not only improve my knowledge but also contribute to my professional growth. They give me a sense of achievement and help me stay ahead in my career.
+
+---
+
+### **Personality and Communication**  
+**Question:** How would you describe your personality? How does it affect how you communicate?  
+**Your Answer:**  
+I would describe myself as someone who communicates easily with others. I find it natural to connect with people, which helps me build good relationships. At the same time, I am a good listener, as I try to understand the scenarios and the other person's perspective before sharing my opinions. This approach ensures effective communication and mutual understanding. My participation in activities like anchoring has further polished my communication skills. It has made me more fluent and confident while interacting with others, whether in formal or informal settings.
+
+---
+
+### **Daily Routine and Problem-Solving**  
+**Question:** What is your daily routine like? How do you solve problems and make decisions?  
+**Your Answer:**  
+My daily routine starts with reviewing the tasks I need to perform. I arrange them based on their priority so that I can manage my time effectively. Attending lectures is a regular part of my schedule, along with daily programming practice, which keeps me sharp and consistent in coding. I also dedicate time to learning aptitude and reasoning, as they help enhance my mathematical abilities and critical thinking skills. When solving problems or making decisions, I analyze the situation logically and consider different perspectives. This approach helps me find practical and effective solutions.
+
+---
+
+### **Career Goals and Growth**  
+**Question:** What are your career goals? How do you see yourself growing in your job?  
+**Your Answer:**  
+My primary career goal is to get placed in a well-known and reputed organization that values growth and innovation. I believe such an organization will provide me with opportunities to improve my technical skills and grow as a competent developer. I aspire to contribute to the company in the best possible way by leveraging my knowledge and skills. Over time, I see myself evolving into a proficient professional who can handle complex challenges and create impactful solutions. My aim is to not only grow personally but also to make meaningful contributions to the organization.
+
+---
+
+# **Handling Stress and Challenges**  
+**Question:** How do you handle stress and challenges? What do you do to cope?  
+**Your Answer:**  
+Stress and challenges are a part of life, and I believe in facing them with a calm and composed mindset. Whenever I find myself in a stressful situation, I try to take a small break if possible. Stepping away from the task for a while helps me regain focus and approach the problem with fresh energy. If taking a break is not an option, I take a deep breath and continue with my work while keeping a positive attitude. Additionally, listening to soft music is one of my favorite ways to stay calm and composed. Music has a soothing effect on me and helps me cope with stress effectively.
+
+---
+
+# **Legacy and Impact**  
+**Question:** What legacy do you want to leave behind? What impact do you want your digital twin to have?  
+**Your Answer:**  
+I aim to leave behind a legacy that secures my family's future and adds value to their lives. To achieve this, I plan to invest in properties that have the potential to grow in value over time. These investments will ensure financial stability for my family. Additionally, I regularly invest in SIPs, as they are a disciplined way of saving and growing wealth in the long term. My digital twin should reflect my values of consistency, growth, and responsibility. I hope it serves as a reliable resource for learning and problem-solving while inspiring others to work hard and stay focused on their goals.
+
+Here’s the content divided into sections as requested:
+
+---
+
+# **Krish Singhai**  
+**Email:** Singhaikrish769@gmail.com  
+**Phone:** (+91) 7898809875  
+**LinkedIn:** https://www.linkedin.com/in/krish-singhai-b11ab12a8 | **GitHub:** https://github.com/Krishsinghai
+
+---
+
+# **Career Objective**  
+To secure a role as a Computer Science Engineer, utilizing my skills in programming, software development, and problem-solving to support organizational growth and innovation.
+
+---
+
+# **Skills**  
+- **Programming Languages:** C++, C, Java  
+- **Query and Backend Languages:** SQL, PHP, NodeJS
+- **Web Technologies:** HTML, CSS, JavaScript  
+- **Tools:** VS Code  
+- **Frameworks and Libraries:** React.js  
+- **Data Structures and Algorithms (DSA):** Strong understanding of core algorithms and data structures.
+
+---
+
+# **Education**  
+- **B.Tech – Computer Science & Engineering**  
+  Sagar Group of Institutions – SISTec-R, Ratibad Campus, Bhopal, MP  
+  CGPA: 7.22 (2022-2026)  
+
+- **12th – MP Board**  
+  Model Higher Secondary School, T.T Nagar, Bhopal  
+  Percentage: 76% (2022)  
+
+- **10th – MP Board**  
+  Model Higher Secondary School, T.T Nagar, Bhopal  
+  Percentage: 82% (2020)
+
+---
+
+# **Certificates and Workshops**  
+- **Certified in Problem Solving through Programming in C** (NPTEL, IIT Kharagpur)  
+- **Certified in Programming in Modern C++** (NPTEL, IIT Kharagpur)  
+- **Completed Introduction to Cyber Security** (Cisco NETCAD Academy)  
+- **Completed Introduction to Packet Tracer** (Cisco NETCAD Academy)  
+- **Web Development Workshop** (MANIT-Bhopal)  
+- **Data Structures and Algorithms Workshop** (MANIT-Bhopal)
+
+---
+
+# **Academic Projects**  
+- **MIS (Management Information System):**  
+  A centralized management system that aids in leave management, duty allotment, case record management, achievement tracking, and more. This system reduces paperwork and streamlines processes for better efficiency.
+
+- **Snake Game:**  
+  An interactive web game where the player manages a growing snake within a boundary wall, challenging their hand-eye coordination and strategic thinking.
+
+---
+
+# **Position of Responsibility**  
+- **SISTec Innovation Hackathon | SISTec-R, Ratibad** (09/04/2023-10/04/2024)  
+  Secured a top 5 position in a hackathon at SISTec-R, competing against over 70 teams.
+
+- **Lakecity Hack | Jagran Lakecity University** (29/04/2023-30/04/2024)  
+  Secured a top 3 position in the Lakecity Hackathon.
