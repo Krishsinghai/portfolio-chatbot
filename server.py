@@ -138,7 +138,6 @@ signal.signal(signal.SIGINT, lambda sig, frame: shutdown_server())
 
 # ✅ Run FastAPI server with proper PORT binding for Render
 if __name__ == "__main__":
-    import uvicorn
-    port = int(os.getenv("PORT", 10000))  # Use provided PORT (default 10000 for Render)
-    uvicorn.run(app, host="0.0.0.0", port=port)
+    port = int(os.getenv("PORT", 8080))  # Default to 8080 if PORT not set
+    uvicorn.run("server:app", host="0.0.0.0", port=port)
 
