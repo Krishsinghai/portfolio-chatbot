@@ -140,5 +140,5 @@ signal.signal(signal.SIGINT, lambda sig, frame: shutdown_server())
 if __name__ == "__main__":
     import uvicorn
     port = int(os.getenv("PORT", 10000))  # Use provided PORT (default 10000 for Render)
-    uvicorn app:app --host 0.0.0.0 --port $PORT
+    uvicorn.run(app, host="0.0.0.0", port=port)
 
